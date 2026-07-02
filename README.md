@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Jasmine! 👩‍💻
 
-<!--
-**jasminecilviya/jasminecilviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**✨ New dev on the block | Learning one commit at a time**
 
-Here are some ideas to get you started:
+- 🌱 Currently figuring out Python & Git — one `git push` at a time
+- 🎯 2026 goal: Ship something real (not just hello-world 😅)
+- 💬 Ask me about: my fav tech YouTubers, not my code (yet)
+- 📫 Reach me: jasminecilviya@gmail.com
+- ⚡ Fun fact: This account was born on **July 2, 2026** — history in the making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> *"The journey of a thousand miles begins with a single commit."*
+
+![Profile views](https://komarev.com/ghpvc/?username=jasminecilviya&color=blue&style=flat)
